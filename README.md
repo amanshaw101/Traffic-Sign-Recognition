@@ -11,7 +11,7 @@ This project provides a strong foundation for further advancements in autonomous
 
 <br>
 <h2>Dataset</h2>
-<p>The dataset used in this project is the German Traffic Sign Recognition Benchmark (GTSRB). It includes:
+<p>The dataset used in this project is the [German Traffic Sign Recognition Benchmark (GTSRB)](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). It includes:
 
 1. Over 39,000 images of traffic signs
 2. 43 classes of different types of traffic signs
