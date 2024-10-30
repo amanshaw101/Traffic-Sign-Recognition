@@ -11,12 +11,12 @@ This project provides a strong foundation for further advancements in autonomous
 
 <br>
 <h2>Dataset</h2>
-<p>The dataset used in this project is the German Traffic Sign Recognition Benchmark (GTSRB). It includes:</p>
+<p>The dataset used in this project is the German Traffic Sign Recognition Benchmark (GTSRB). It includes:
 
 1. Over 39,000 images of traffic signs
 2. 43 classes of different types of traffic signs
 3. Variations in image size, lighting, and angle, providing challenging conditions for accurate recognition.
-4. The dataset is divided into a training set and a test set, with the training set used to train the CNN model.
+4. The dataset is divided into a training set and a test set, with the training set used to train the CNN model.</p>
 <br>
 <h2>Model Architecture</h2>
 <p>This project employs a Convolutional Neural Network (CNN), tailored specifically for image classification tasks. CNNs are adept at learning visual patterns and features, making them highly effective for recognizing and categorizing traffic signs in diverse conditions.</p>
