@@ -18,18 +18,17 @@ This project provides a strong foundation for further advancements in autonomous
 3. Variations in image size, lighting, and angle, providing challenging conditions for accurate recognition.
 4. The dataset is divided into a training set and a test set, with the training set used to train the CNN model.
 <br>
-*Model Architecture*
-This project employs a Convolutional Neural Network (CNN), tailored specifically for image classification tasks. CNNs are adept at learning visual patterns and features, making them highly effective for recognizing and categorizing traffic signs in diverse conditions.
+<h2>Model Architecture</h2>
+<p>This project employs a Convolutional Neural Network (CNN), tailored specifically for image classification tasks. CNNs are adept at learning visual patterns and features, making them highly effective for recognizing and categorizing traffic signs in diverse conditions.</p>
 <br>
-*Deployment*
-The trained model is deployed using Tkinter, a Python GUI framework. This interactive application allows users to:
+<h2>Deployment</h2>
+<p>The trained model is deployed using Tkinter, a Python GUI framework. This interactive application allows users to:</p>
+1. Upload traffic sign images and view the model’s predictions in real-time.
+2. Receive immediate feedback on the predicted traffic sign category.
+3. This demo not only highlights the model’s capabilities but also serves as an educational tool for understanding the significance of traffic sign recognition in autonomous driving applications.
+<br>
+<h2>Key Features</h2>
+1. **Traffic Sign Recognition:** Classifies traffic signs into 43 categories, handling various lighting, size, and angle conditions.
+2. **Interactive Demo:** Allows users to engage directly with the model, enhancing the learning experience.
+3. **Real-time Feedback:** Provides prompt predictions and insights into the model’s functionality.
 
-Upload traffic sign images and view the model’s predictions in real-time.
-Receive immediate feedback on the predicted traffic sign category.
-This demo not only highlights the model’s capabilities but also serves as an educational tool for understanding the significance of traffic sign recognition in autonomous driving applications.
-<br>
-*Key Features*
-Traffic Sign Recognition: Classifies traffic signs into 43 categories, handling various lighting, size, and angle conditions.
-Interactive Demo: Allows users to engage directly with the model, enhancing the learning experience.
-Real-time Feedback: Provides prompt predictions and insights into the model’s functionality.
-Getting Started
