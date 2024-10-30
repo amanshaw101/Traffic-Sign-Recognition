@@ -1,8 +1,8 @@
 **Traffic Sign Recognition with Convolutional Neural Networks (CNNs)**
 <br>
-Traffic Sign Recognition (TSR) is an essential aspect of autonomous driving systems, significantly contributing to the safety and efficiency of transportation. 
+<p>Traffic Sign Recognition (TSR) is an essential aspect of autonomous driving systems, significantly contributing to the safety and efficiency of transportation. 
 This project implements a Traffic Sign Recognition system using Convolutional Neural Networks (CNNs), a powerful deep learning architecture well-suited for image classification tasks. 
-The primary goal is to automatically classify traffic signs from images into their respective categories, enabling vehicles to understand and respond to road signs accurately.
+The primary goal is to automatically classify traffic signs from images into their respective categories, enabling vehicles to understand and respond to road signs accurately.</p>
 <br>
 *Project Overview*
 <br>
